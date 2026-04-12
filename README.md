@@ -1,16 +1,34 @@
-## Hi there 👋
+# Jon Villasurda Jr.
 
-<!--
-**jonvillasurdajr/jonvillasurdajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Principal in healthcare and government benefits consulting at Mercer, based in Okemos, Michigan.
 
-Here are some ideas to get you started:
+Also known professionally as Jon Villasurda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile represents Jon Villasurda Jr. and is intended to distinguish him from other individuals with the same name.
+
+[Website](https://jonvillasurdajr.github.io/) | [About](https://jonvillasurdajr.github.io/about/) | [LinkedIn](https://www.linkedin.com/in/jon-villasurda-jr-54817619) | [CHRT bio](https://chrt.org/bio/jon-villasurda/)
+
+## Focus areas
+
+- Medicaid and healthcare policy
+- Behavioral health services and delivery system design
+- Public sector strategy and program evaluation
+- Analytics, finance, and delivery system design
+
+## Current profile
+
+- Senior Principal at Mercer
+- Based in Okemos, Michigan
+- University of Michigan graduate
+- Former Michigan Department of Health and Human Services leader
+
+## Featured work
+
+- [NJ CCBHC Certification Portal](https://github.com/jonvillasurdajr/nj-ccbhc-portal)
+- [Professional website and disambiguation pages](https://jonvillasurdajr.github.io/)
+- [Implementing a Health Home: Michigan's Experience](https://journals.sagepub.com/doi/abs/10.1177/1527154417749849/)
+- [The Role of Certified Community Behavioral Health Clinics in Crisis Services and Systems](https://www.thenationalcouncil.org/wp-content/uploads/2025/04/4.09.27_CCBHCs-and-Crisis-Paper_v3.pdf)
+
+## Identity note
+
+This profile is for Jon Villasurda Jr. of Okemos, Michigan. It is intended to reinforce accurate professional identity signals across GitHub and search engines.
